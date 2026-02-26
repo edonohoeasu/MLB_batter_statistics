@@ -1,4 +1,4 @@
-# MLB_batter_statistics #
+# MLB Player Analysis #
 
 ## Table of Contents ##
 - [Introduction](#introduction)
