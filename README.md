@@ -5,6 +5,7 @@
 - [Literature Review](#literature-review)
 - [Data Analysis](#data-analysis)
   - [Age and Batting Average Analysis](link)
+- [Conclusion](#conclusion)
 - [References](#references)
 
 ## Introduction
@@ -29,18 +30,18 @@ Guaranteeing a Major League Baseball player millions of dollars over many years 
 Based on academic research, this project seeks to reveal the relationship between age and batting statistics for player in Major League Baseball. The research will demonstrate the patterns and trends in the relationship that may help ownership groups make decisions that enhance both team performance and organizational value.
 
 
-## Notebook
+## Data Analysis
 
 
 
-## Summary
-
-
-
-## Next Steps
+## Conclusion
 
 
 
 ## References
 
+Briton, Hagan A. “CHARACTERISTICS AND SUCCESS OF LONG-TERM CONTRACTS IN MAJOR LEAGUE BASEBALL.” Proquest, 2017, www.proquest.com/. 
 
+Matthew, Cahill J. “Change in Major League Baseball Player Performance after Signing a Long-Term Deal.” Fisher Digital Publications, 2014,                      fisherpub.sjf.edu/cgi/viewcontent.cgi?article=1072&amp=&context=sport_undergrad. 
+
+Ng, Kevin. “ANALYZING MAJOR LEAGUE BASEBALL PLAYER’S PERFORMANCE BASED ON AGE AND EXPERIENCE.” Github, 2017, kevincng.github.io/files/Ng_2017.pdf. 
