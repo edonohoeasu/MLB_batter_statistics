@@ -5,7 +5,6 @@
 - [Literature Review](#literature-review)
 - [Data Analysis](#data-analysis)
   - [Age and Batting Average Analysis](link)
-- [Conclusion](#conclusion)
 - [References](#references)
 
 ## Introduction
