@@ -40,7 +40,7 @@ Based on academic research, this project seeks to reveal the relationship betwee
 
 ## References
 
-Briton, Hagan A. “CHARACTERISTICS AND SUCCESS OF LONG-TERM CONTRACTS IN MAJOR LEAGUE BASEBALL.” Proquest, 2017, <www.proquest.com/>. 
+Briton, Hagan A. “CHARACTERISTICS AND SUCCESS OF LONG-TERM CONTRACTS IN MAJOR LEAGUE BASEBALL.” Proquest, 2017, www[.]proquest.com/. 
 
 Matthew, Cahill J. “Change in Major League Baseball Player Performance after Signing a Long-Term Deal.” Fisher Digital Publications, 2014,                      fisherpub.sjf.edu/cgi/viewcontent.cgi?article=1072&amp=&context=sport_undergrad. 
 
