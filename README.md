@@ -3,8 +3,8 @@
 ## Table of Contents ##
 - [Introduction](#introduction)
 - [Literature Review](#literature-review)
-- [Data Analysis](#data-analysis)
-  - [Age and Batting Average Analysis](link)
+- [Notebook](#notebook)
+  - [Notebook: Age and Batting Average Analysis](https://colab.research.google.com/drive/105cSjkmkCf_88hnQRMwqXkhd7djMejmN?usp=sharing)
 - [Conclusion](#conclusion)
 - [References](#references)
 
