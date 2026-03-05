@@ -52,5 +52,5 @@ Ng, Kevin. “ANALYZING MAJOR LEAGUE BASEBALL PLAYER’S PERFORMANCE BASED ON AG
 
 **Data Sources**
 
-FernandezC, Josue. “MLB Batting Data (2015-2024).” Kaggle, 29 Sept. 2025, www.kaggle.com/datasets/josuefernandezc/mlb-hitting-data-2015-2024. 
+FernandezC, Josue. “MLB Batting Data (2015-2024).” Kaggle, 29 Sept. 2025, www[.]kaggle.com/datasets/josuefernandezc/mlb-hitting-data-2015-2024. 
 
