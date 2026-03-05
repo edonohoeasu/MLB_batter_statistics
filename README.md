@@ -42,8 +42,15 @@ The notebook contains the data assembly as well as the data anlysis section. In 
 
 ## References
 
+**Academic Sources**
+
 Briton, Hagan A. “CHARACTERISTICS AND SUCCESS OF LONG-TERM CONTRACTS IN MAJOR LEAGUE BASEBALL.” Proquest, 2017, www[.]proquest.com/. 
 
 Matthew, Cahill J. “Change in Major League Baseball Player Performance after Signing a Long-Term Deal.” Fisher Digital Publications, 2014,                      fisherpub.sjf.edu/cgi/viewcontent.cgi?article=1072&amp=&context=sport_undergrad. 
 
 Ng, Kevin. “ANALYZING MAJOR LEAGUE BASEBALL PLAYER’S PERFORMANCE BASED ON AGE AND EXPERIENCE.” Github, 2017, kevincng.github.io/files/Ng_2017.pdf. 
+
+**Data Sources**
+
+FernandezC, Josue. “MLB Batting Data (2015-2024).” Kaggle, 29 Sept. 2025, www.kaggle.com/datasets/josuefernandezc/mlb-hitting-data-2015-2024. 
+
