@@ -5,7 +5,6 @@
 - [Literature Review](#literature-review)
 - [Notebook](#notebook)
   - [Notebook: Age and Batting Average Analysis](https://colab.research.google.com/drive/105cSjkmkCf_88hnQRMwqXkhd7djMejmN?usp=sharing)
-- [Conclusion](#conclusion)
 - [References](#references)
 
 ## Introduction
@@ -35,10 +34,6 @@ Based on academic research, this project seeks to reveal the relationship betwee
 The notebook contains the data assembly as well as the data anlysis section. In this notebook it will highlight the variables in the data as well the steps took in the data analysis to come up with some meaningful conclusions. The notebook also includes a conclusion for each of the relationships discovered and some steps that could be taken in future research studies. 
 
   - [Notebook: Age and Batting Statistics Analysis](https://colab.research.google.com/drive/105cSjkmkCf_88hnQRMwqXkhd7djMejmN?usp=sharing)
-
-## Conclusion
-
-
 
 ## References
 
